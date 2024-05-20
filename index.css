@@ -1,0 +1,75 @@
+.bg-container{
+   background-color: #dac0ff ;
+   background-size: cover;
+   height:200vh;
+}
+
+.main-heading{
+    color:#690cb0;
+    font-family: 'Roboto';
+    font-size:60px;
+    font-weight: bold;
+    padding:10px;
+   
+
+}
+.main-para{
+    font-family: 'Roboto';
+    font-size:30px;
+    padding:10px;
+    color: #3e4c59;
+    
+}
+.clock-image{
+    height:100px;
+    width:80px;
+}
+.seconds{
+    color: #3e4c59;
+    font-family: "Roboto";
+    padding-top: 50px;
+    padding-left: 10px;
+    font-size: 30px;
+}
+.numbers-heading{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 50px;
+    padding-top: 35px;
+}
+.inner-card{
+    border-radius: 20px;
+    background-color: #f3eaff;
+    height:90vh;
+    margin:20px;
+    padding:10px;
+
+}
+.inner-card-one {
+    background-color: white;
+    margin: 10px;
+    height: 40vh;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.inner-para {
+    color: #3e4c59;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 5px;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    color: black;
+    border-radius: 5px;
+    margin-left: 10px;
+}
